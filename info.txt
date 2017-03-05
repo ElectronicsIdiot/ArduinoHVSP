@@ -1,0 +1,9 @@
+The code is a slightly modified version of the second program found here: https://arduinodiy.wordpress.com/2015/05/16/high-voltage-programmingunbricking-for-attiny/
+
+Pin mappings:
+RST: 8
+SCI: 13
+SDO: 10
+SII: 11
+SDI: 12
+VCC: 9
